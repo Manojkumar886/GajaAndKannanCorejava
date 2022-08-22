@@ -15,5 +15,4 @@ public class Narrowing {
 		System.out.println("Floating value is"+b);
 		System.out.println("Integer value is"+a);
 	}
-
 }
