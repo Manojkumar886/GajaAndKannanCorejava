@@ -15,5 +15,4 @@ public class ScannerClass {
 		int age=scan.nextInt();
 		System.out.println("your age is "+age);
 	}
-
 }
