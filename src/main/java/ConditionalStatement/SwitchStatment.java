@@ -27,8 +27,6 @@ public class SwitchStatment {
 			break;
 		default:System.out.println("Your value is not eligible");
 		}
-		
-
 	}
 
 }
